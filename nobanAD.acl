@@ -29,6 +29,10 @@
 [bypass_list]
 # 直连列表
 
+# 我的自定义直连列表
+# # 让fcm的域名直连
+(^|\.)mtalk\.google\.com$
+
 # CN域名直连
 ^.*\.cn$
 
